@@ -19,7 +19,6 @@
 <div style="display: inline_block"><br>
   <img align="Center" alt="Alam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="Center" alt="Alam-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="Center" alt="Alam-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg">
   <img align="Center" alt="Alam-Bash" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 </div>
 
